@@ -1,3 +1,9 @@
+puppet3 (3.7.2-4+deb8u1sci9u1) scibian9; urgency=medium
+
+  * Fork puppet package to puppet3
+
+ -- Scibian Packaging Team <packaging@scibian.org>  Mon, 18 Sep 2017 16:24:04 +0200
+
 puppet (3.7.2-4+deb8u1) jessie-security; urgency=high
 
   * master: accept facts only in PSON format (CVE-2017-2295). Note that the

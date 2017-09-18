@@ -1,1 +1,1 @@
-debian/puppetmaster.service /lib/systemd/system
+debian/puppetmaster3.service /lib/systemd/system
