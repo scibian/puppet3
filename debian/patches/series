@@ -1,0 +1,7 @@
+0001-Do-not-require-rubygems.patch
+0002-Set-passenger-puppet-master-document-root.patch
+0003-fix-puppet-master-logcheck-rule.patch
+0004-debian-service-provider-use-service.patch
+0005-Fix-service-listing-and-enable-disable-in-Debian.patch
+0006-Storeconfigs-compatibility-with-ActiveRecord-4.patch
+0007-CVE-2017-2295.patch
